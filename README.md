@@ -6,4 +6,5 @@ Jogo 2D de labirinto desenvolvido em C com Raylib, aplicando conceitos de progra
 - Gabriel Araujo
 - Heitor Torres
 - Isabelly Ribeiro
+- Rafael de Andrade
 - Rubens Sousa
