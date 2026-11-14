@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Executável do projeto (Linux/WSL/macOS)
+mazerush
+
+# Editor
+.vscode/
